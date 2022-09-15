@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import datetime
 import re
 import requests
 import unicodedata
@@ -25,7 +26,7 @@ data = response.json()
 
 TEMPLATE = """---
 title: %(title)s
-date: %(isoDate)s
+date: %(date)s
 publication: '*Medium*'
 publication_link: "https://medium.com"
 external_link: "%(link)s"
@@ -34,6 +35,9 @@ external_link: "%(link)s"
 
 for item in data:
     slug = slugify(item['title'])
+    ts = datetime.date.fromtimestamp(item['created'] / 1000)
+    item['date'] = ts.isoformat()
+    
     with open(f'../content/post/{slug}.md', 'w') as f:
         f.write(TEMPLATE % item)
     
