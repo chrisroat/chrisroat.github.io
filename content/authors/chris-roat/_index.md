@@ -18,10 +18,12 @@ bio:  I did a Science.
 
 # Interests to show in About widget
 interests:
+- Quantum Information/Computing
 - Sleep
 - Neuroscience
 - High Energy Physics
 - Astrophysics/Cosmology
+- Local News
 - Data Science
 - Software Engineering
 - Swimming
