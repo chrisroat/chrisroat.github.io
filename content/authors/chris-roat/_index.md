@@ -10,6 +10,8 @@ role: Techie
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Google
+  url: https://www.google.com/
 - name: Stanford University
   url: https://www.stanford.edu/
 
@@ -28,6 +30,7 @@ interests:
 - Software Engineering
 - Swimming
 - Poker
+- Emergency Preparedness ([KM6VZR](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4088221))
 
 
 # Education to show in About widget
