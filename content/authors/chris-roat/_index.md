@@ -23,14 +23,20 @@ interests:
 - Quantum Information/Computing
 - Sleep
 - Neuroscience
-- High Energy Physics
 - Astrophysics/Cosmology
-- Local News
 - Data Science
 - Software Engineering
 - Swimming
-- Poker
-- Emergency Preparedness ([KM6VZR](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4088221))
+- Sustainable Local News&#58; <br>
+  Spearheaded [SJ Mercury News Premium AdFree](https://checkout.mercurynews.com/)
+- High Energy Physics&#58; <br> 
+  [&#x1D4D1;(&Lambda;<sub>c</sub><sup>+</sup>&rarr;pK<sup>-</sup>&pi;<sup>+</sup>) = [6.12 ± 0.31(stat.) ± 0.42(syst.)]%](https://www.slac.stanford.edu/pubs/slacreports/reports15/slac-r-665.pdf)
+- Ranked Choice Voting&#58; <br>
+  Created [pyrcv library](https://github.com/chrisroat/pyrcv) and [webserver](https://www.pyrcv.org/)
+- Poker&#58; <br>
+  [Big Win!](https://pokerdb.thehendonmob.com/event.php?a=r&n=33057)
+- Emergency Preparedness&#58; <br> 
+  [KM6VZR](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=4088221)
 
 
 # Education to show in About widget
