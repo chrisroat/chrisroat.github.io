@@ -28,7 +28,7 @@ interests:
 - Software Engineering
 - Swimming
 - Sustainable Local News&#58; <br>
-  Spearheaded [SJ Mercury News Premium AdFree](https://checkout.mercurynews.com/)
+  Spearheaded [SJ Mercury AdFree](https://checkout.mercurynews.com/), now on more than [50 regional papers](https://adfree.chrisroat.net/)
 - High Energy Physics&#58; <br> 
   [&#x1D4D1;(&Lambda;<sub>c</sub><sup>+</sup>&rarr;pK<sup>-</sup>&pi;<sup>+</sup>) = [6.12 ± 0.31(stat.) ± 0.42(syst.)]%](https://www.slac.stanford.edu/pubs/slacreports/reports15/slac-r-665.pdf)
 - Ranked Choice Voting&#58; <br>
